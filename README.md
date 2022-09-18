@@ -6,7 +6,7 @@
   <div>I'm Artur</div>
 </h1>
 <div>
-🔍 <strong>I'm currently open to work:</strong>
+🔍 <strong>В настоящее время я открыт для работы:</strong>
                                                                                                       
 - Frontend developer
                                                                                                       
