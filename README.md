@@ -10,7 +10,7 @@
                                                                                                       
 - Frontend developer
                                                                                                       
-📖 <b>How to reach me:</b>
+📖 <b>Как связаться со мной:</b>
 
 <a href="https://vk.com/id498666978">
   <img src="https://img.shields.io/badge/Artur-blue?style=for-the-badge&logo=VK&logoWidth=20&logoColor="white" alt="Vk" />
