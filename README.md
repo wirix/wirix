@@ -13,10 +13,10 @@
 📖 <b>Как связаться со мной:</b>
 
 <a href="https://vk.com/id498666978">
-  <img src="https://img.shields.io/badge/Artur-blue?style=for-the-badge&logo=VK&logoWidth=20&logoColor="white" alt="Vk" />
+  <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoWidth=20&logoColor="white" alt="Vk" />
 </a>
 <a href="https://t.me/offnik228420">
-  <img src="https://img.shields.io/badge/Artur-0088cc?style=for-the-badge&logo=Telegram&logoWidth=20&logoColor="white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoWidth=20&logoColor="white" alt="Telegram" />
 </a>
                                                                         
 🛠️ <strong>Языки и инструменты:</strong>
