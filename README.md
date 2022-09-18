@@ -6,11 +6,11 @@
   <div>I'm Artur</div>
 </h1>
 <div>
-🔍 <strong>В настоящее время я открыт для работы:</strong>
+🔍 <strong style="font-size: 25px;">В настоящее время я открыт для работы:</strong>
                                                                                                       
-- Frontend developer
+- <small>Frontend developer</small>
                                                                                                       
-📖 <b>Как связаться со мной:</b>
+📖 <strong>Как связаться со мной:</strong>
 
 <a href="https://vk.com/id498666978">
   <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoWidth=20&logoColor="white" alt="Vk" />
