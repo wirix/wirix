@@ -27,7 +27,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg " alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="css3" width="40" height="40"/>
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="css3" width="40" height="40"/>
