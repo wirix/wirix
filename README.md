@@ -26,9 +26,9 @@
 </div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wirix&theme=shades_of_purple" alt="javascript" width="1024" />
 <span style={{display: 'flex'}}>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wirix&theme=shades_of_purple&utcOffset=8" width='334.3333'/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wirix&theme=shades_of_purple" width='334.3333'/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wirix&theme=shades_of_purple" width='334.3333'/>
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wirix&theme=shades_of_purple&utcOffset=8" width='334.3333'/> -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wirix&theme=shades_of_purple" width='49.7%'/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wirix&theme=shades_of_purple" width='49.7%'/>
 </span>
 <!-- <span><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wirix&theme=shades_of_purple" alt="javascript"/></span> -->
 <!-- <div>
