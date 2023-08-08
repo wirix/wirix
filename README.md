@@ -12,7 +12,7 @@
                                                                                                       
 📖 <strong>Как связаться со мной:</strong>
 
-<a href="https://t.me/offnik228420">
+<a href="https://t.me/arturantiseptik">
   <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoWidth=20&logoColor="white" alt="Telegram" />
 </a>
                                                                         
