@@ -24,12 +24,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase-plain-wordmark.svg" width="40" height="40"/>
 </div>
+<!--
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wirix&theme=shades_of_purple" alt="javascript" width="1024" />
 <span style={{display: 'flex'}}>
 <!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wirix&theme=shades_of_purple&utcOffset=8" width='334.3333'/> -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wirix&theme=shades_of_purple" width='49.7%'/>
+ <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wirix&theme=shades_of_purple" width='49.7%'/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wirix&theme=shades_of_purple" width='49.7%'/>
-</span>
+</span>  -->
 <!-- <span><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wirix&theme=shades_of_purple" alt="javascript"/></span> -->
 <!-- <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg " alt="html5" width="40" height="40"/>
