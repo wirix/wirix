@@ -15,15 +15,7 @@
 <a href="https://t.me/arturantiseptik">
   <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoWidth=20&logoColor="white" alt="Telegram" />
 </a>
-                                                                        
-🛠️ <strong>Языки и инструменты:</strong>
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height ="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width=" 40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase-plain-wordmark.svg" width="40" height="40"/>
-</div>
+
 <!--
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wirix&theme=shades_of_purple" alt="javascript" width="1024" />
 <span style={{display: 'flex'}}>
