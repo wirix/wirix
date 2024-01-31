@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=790b76119fe73a30f22b1dc00b5839cd015568ff5a258e2f&rid=giphy.gif&ct=g" width="120"/>
-</div>
 <h1 align="center">
   Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <div>I'm Artur</div>
