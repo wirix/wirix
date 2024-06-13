@@ -108,11 +108,6 @@
         <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="36" height="36" alt="Mobx" />
       </a>
       <br>Mobx
-     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
-      </a>
-      <br>Apollo
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
